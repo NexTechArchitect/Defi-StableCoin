@@ -158,7 +158,7 @@ forge test --match-test invariant
 
 
 
-<b>Engineered by NEXTECHARHITECT</b>
+<b>Engineered by NexTechArchitect</b>
 
 
 
