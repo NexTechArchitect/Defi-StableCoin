@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1 style="font-size: 3rem; margin-bottom: 0;">DSC Engine</h1>
+  <h1 style="font-size: 3rem; margin-bottom: 0;">Defi-StableCoin Engine</h1>
 
   <p style="font-size: 1.1rem; color: #b298dc; max-width: 600px;">
     <strong>A mathematically modeled, exogenous, over-collateralized stablecoin system.</strong><br/>
