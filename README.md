@@ -1,8 +1,26 @@
 
+
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚡-DEFI-STABLECOIN-F0B90B?style=for-the-badge&labelColor=0f172a&color=F0B90B" height="36"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1_DSC-PROTOCOL-F0B90B?style=for-the-badge&labelColor=0f172a&color=F0B90B" height="36"/>
 
+# Decentralized StableCoin Engine
+
+<br>
+
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Foundry](https://img.shields.io/badge/Built_With-Foundry-F0B90B?style=flat-square)](https://book.getfoundry.sh/)
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-363636?style=flat-square&logo=solidity)](https://soliditylang.org/)
+[![Invariant](https://img.shields.io/badge/Invariant_Suite-10%2C000_Runs-22c55e?style=flat-square)]()
+[![Oracle](https://img.shields.io/badge/Oracle-Chainlink-375BD2?style=flat-square)](https://chain.link/)
+
+<br>
+
+> **A mathematically modeled, exogenous, over-collateralized stablecoin anchored to USD.**
+> wETH / wBTC collateral · Chainlink price feeds · Dynamic liquidation engine · Fuzz-proved solvency.
+
+</div>
 
   <p style="font-size: 1.1rem; color: #b298dc; max-width: 600px;">
     <strong>A mathematically modeled, exogenous, over-collateralized stablecoin system.</strong><br/>
