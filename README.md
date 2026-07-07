@@ -1,7 +1,8 @@
 
 <div align="center">
 
-  <h1 style="font-size: 3rem; margin-bottom: 0;">DEFI-StableCoin Engine</h1>
+<img src="https://img.shields.io/badge/⚡-DEFI-STABLECOIN-F0B90B?style=for-the-badge&labelColor=0f172a&color=F0B90B" height="36"/>
+
 
   <p style="font-size: 1.1rem; color: #b298dc; max-width: 600px;">
     <strong>A mathematically modeled, exogenous, over-collateralized stablecoin system.</strong><br/>
