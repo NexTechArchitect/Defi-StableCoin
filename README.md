@@ -26,7 +26,7 @@
     <strong>A mathematically modeled, exogenous, over-collateralized stablecoin system.</strong><br/>
     Anchored to the USD via Chainlink Oracles and secured by a dynamic liquidation engine.
   </p>
-
+ 
   <p>
 
 
